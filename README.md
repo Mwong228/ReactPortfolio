@@ -1,7 +1,7 @@
 # Responsive_Portfolio
 
 ## Website
-Visit My Portfolio: https://mwong228.github.io/ReactPortfolio/
+Visit My Portfolio: https://mwong228-portfolio.herokuapp.com/
 
 ## Description 
 This webpage showcases a couple of projects I have recently worked on as well as giving a brief description of myself. 
