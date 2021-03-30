@@ -1,7 +1,9 @@
 # Responsive_Portfolio
 
-To Visit the Website: https://mwong228.github.io/Responsive_Portfolio
+## Website
+Visit My Portfolio: https://mwong228.github.io/Responsive_Portfolio
 
+## Description 
 This webpage showcases a couple of projects I have recently worked on as well as giving a brief description of myself. 
 
 I have included links to my Resume, LinkedIn and GitHub profile to showcase my experiences and accomplishments.
