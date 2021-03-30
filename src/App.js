@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar"
 // import Contact from "./components/Contact"
 // import About from "./components/About"
 // import Portfolio from "./components/Portfolio"
-// import Footer from "./components/Footer"
+import Footer from "./components/Footer"
 
 function App() { 
 
@@ -15,7 +15,7 @@ function App() {
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />  */}
       </Router>
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 }
