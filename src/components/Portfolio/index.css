@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://www.telerik.com/clientsfiles/130597_fieldsetbgr.gif?sfvrsn=463197d5_0);
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.design {
+    background-color: teal;
+}
+.font{
+    font-weight: bold;
+}
+#bottomNav{
+    text-align: center;
+}
+.aboutmefont{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+}
+.imgAboutme{
+    float:left;
+    margin: 10px;
+}
+.outline {
+    padding: 10px;
+}
+#gridmargin {
+    margin: 50px;
+}

@@ -13,7 +13,7 @@ function About() {
                     <div class="col-md-8">
                         <div class="card-body">
                             <h1 class="card-title">About Me</h1>
-                            <p class="card-text">My name is Michael Wong, I am currently enrolling in a full-time coding bootcamp to be a full-stacked developer. One of the main projects I have developped is a VanillaJS application to simplify the task of creating reminders targeted towards seniros with ease of use functionality by limiting the amount of needed compared to a traditioanl calendar.</p>
+                            <p class="card-text">My name is Michael Wong. I am currently enrolling in a full-time coding Bootcamp to be a full-stacked developer. One of the main projects I have developed is a VanillaJS application targeted towards seniors to help simplify the task of creating daily reminders for medicine. This application significantly reduces the number of steps needed to create a reminder when compared to traditional calendars.</p>
                             <p>Visit My: <a href="https://www.linkedin.com/in/mwong228/" >LinkedIn Page</a></p>
                             <p>Visit My: <a href="https://github.com/Mwong228" > GitHub Page</a></p>
                             <p>Copy of My: <a href="https://drive.google.com/file/d/1DrV4fH_sR5ST37Ldh0ipkF5ui6lAu90N/view?usp=sharing">Resume</a></p>
