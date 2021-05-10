@@ -25,3 +25,8 @@ body{
 #gridmargin {
     margin: 50px;
 }
+
+img{
+    width: 400px;
+    height: auto;
+}

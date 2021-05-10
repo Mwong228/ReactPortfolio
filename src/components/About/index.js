@@ -8,15 +8,15 @@ function About() {
             <div id="gridmargin" class="grid-container">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="https://i.gyazo.com/200f110e290444f6da11b5b0d63a2905.png" alt="Profile"/>
+                        <img src="https://i.gyazo.com/1b0b59ada9a19a40f5c55deb51105a5c.jpg" alt="Profile"/>
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
                             <h1 class="card-title">About Me</h1>
-                            <p class="card-text">My name is Michael Wong. I am currently enrolling in a full-time coding Bootcamp to be a full-stacked developer. One of the main projects I have developed is a VanillaJS application targeted towards seniors to help simplify the task of creating daily reminders for medicine. This application significantly reduces the number of steps needed to create a reminder when compared to traditional calendars.</p>
+                            <p class="card-text">Full Stack Developer with an Economics and Accounting background that can leverage my expertise in Data Analytics to help create robust web applications. Applied UX and Agile development in recent E-Commerce project to develop a single-page MERN application to showcase products, track sales and inventory by pulling information from database results. Adept at collaborating with teams from different departments and strong communication skills when conveying information to others. Bring experience obtained through a cross-functional organization to streamline data analysis, reporting, and auditing.</p>
                             <p>Visit My: <a href="https://www.linkedin.com/in/mwong228/" >LinkedIn Page</a></p>
                             <p>Visit My: <a href="https://github.com/Mwong228" > GitHub Page</a></p>
-                            <p>Copy of My: <a href="https://drive.google.com/file/d/1DrV4fH_sR5ST37Ldh0ipkF5ui6lAu90N/view?usp=sharing">Resume</a></p>
+                            <p>Copy of My: <a href="https://drive.google.com/file/d/1yt5QKipGgyrvsn5lp2D_3Y9682vxqN0S/view">Resume</a></p>
                         </div>
                     </div>
                 </div>

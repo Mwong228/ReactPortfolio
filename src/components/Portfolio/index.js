@@ -10,6 +10,19 @@ function Portfolio() {
                         <div class="card-header aboutmefont">Portfolio</div>
                         <div class="card-body">
                             <div class="row">
+                            <div class="col-lg-6 col-md-12 col-sm-12 outline d-flex align-items-stretch">
+                                    <div class="card">
+                                        <img src="https://i.gyazo.com/f8b693e27f3ce76df65833ed21a42944.png" class="card-img-top" alt="E-Com" />
+                                        <div class="card-body">
+                                            <h5 class="card-title">E-Commerce Website</h5>
+                                            <p class="card-text">Full stack web application for small businesses to showcase products for customers</p>
+                                            <a href="https://peak-everest-furniture.herokuapp.com/">Website</a>
+                                            <br />
+                                            <a href="https://github.com/Dragontalker/peak-everest-furniture">GitHub Repository</a>
+                                            <br />
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12 outline d-flex align-items-stretch">
                                     <div class="card">
                                         <img src="https://i.gyazo.com/0c92e384ffc312be6284954aa5c59cb3.png" class="card-img-top" alt="FluxIM" />
@@ -41,7 +54,7 @@ function Portfolio() {
                                         <img src="https://i.gyazo.com/ad6953e5d31b906c2ca1c2fa0e365944.png" class="card-img-top" alt="Event-Notification Website" />
                                         <div class="card-body">
                                             <h5 class="card-title">Event Notification</h5>
-                                            <p class="card-text">Notifications App coded with VanillaJS to simplify the process of creaeting reminders</p>
+                                            <p class="card-text">Notifications App coded with VanillaJS to simplify the process of creating reminders</p>
                                             <a href="https://cycy6.github.io/Event-notification/">Website</a>
                                             <br />
                                             <a href="https://github.com/cycy6/Event-notification">GitHub Repository</a>
@@ -70,19 +83,6 @@ function Portfolio() {
                                             <a href="https://mwong228.github.io/PasswordGenerator/">Website</a>
                                             <br />
                                             <a href="https://github.com/Mwong228/PasswordGenerator">GitHub Repository</a>
-                                            <br />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12 outline d-flex align-items-stretch">
-                                    <div class="card">
-                                        <img src="https://i.gyazo.com/f92fe30365f104a45e854204739e3311.png" class="card-img-top" alt="Workday Schedular Website" height="200px" width="100px" />
-                                        <div class="card-body">
-                                            <h5 class="card-title">Workday Scheduler</h5>
-                                            <p class="card-text">Built a scheduling application for users to events associated with each hour using an onClick save function</p>
-                                            <a href="https://mwong228.github.io/WorkdayScheduler/">Website</a>
-                                            <br />
-                                            <a href="https://github.com/Mwong228/WorkdayScheduler">GitHub Repository</a>
                                             <br />
                                         </div>
                                     </div>
