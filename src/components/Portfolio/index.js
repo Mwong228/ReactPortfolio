@@ -1,4 +1,5 @@
 import React from 'react'
+import "./index.css"
 
 function Portfolio() {
 
@@ -16,6 +17,7 @@ function Portfolio() {
                                         <div class="card-body">
                                             <h5 class="card-title">E-Commerce Website</h5>
                                             <p class="card-text">Full stack web application for small businesses to showcase products for customers</p>
+                                            <p><b>Technologies Used:</b> React, Express, NodeJs, MongoDB, RESTful APIs</p>
                                             <a href="https://peak-everest-furniture.herokuapp.com/">Website</a>
                                             <br />
                                             <a href="https://github.com/Dragontalker/peak-everest-furniture">GitHub Repository</a>
@@ -29,6 +31,7 @@ function Portfolio() {
                                         <div class="card-body">
                                             <h5 class="card-title">FluxIM</h5>
                                             <p class="card-text">FluxIM is an instant messaging application that allows users to connect and chat with each other in real-time.</p>
+                                            <p><b>Technologies Used:</b> JavaScript, Express, NodeJs, MySQL, Socket.IO, RESTful APIs</p>
                                             <a href="https://flux-im.herokuapp.com/">Website</a>
                                             <br />
                                             <a href="https://github.com/Dragontalker/Project2_fluxIM">GitHub Repository</a>
@@ -42,6 +45,7 @@ function Portfolio() {
                                         <div class="card-body">
                                             <h5 class="card-title">Note Taker</h5>
                                             <p class="card-text">A web application that allows a user to save and delete entries made on the web page. This application writes the user data in a file and fetches the file using API calls.</p>
+                                            <p><b>Technologies Used:</b> JavaScript, HTML, CSS, RESTful APIs, JSON</p>
                                             <a href="https://mwong228-notetaker.herokuapp.com/">Website</a>
                                             <br />
                                             <a href="https://github.com/Mwong228/NoteTaker">GitHub Repository</a>
@@ -54,7 +58,8 @@ function Portfolio() {
                                         <img src="https://i.gyazo.com/ad6953e5d31b906c2ca1c2fa0e365944.png" class="card-img-top" alt="Event-Notification Website" />
                                         <div class="card-body">
                                             <h5 class="card-title">Event Notification</h5>
-                                            <p class="card-text">Notifications App coded with VanillaJS to simplify the process of creating reminders</p>
+                                            <p class="card-text">Notifications App coded with VanillaJS to simplify the process of creating reminders. Alert modal will appear when the designated time and date is reached</p>
+                                            <p><b>Technologies Used:</b> JavaScript, HTML, CSS, DOM, LocalStorage</p>
                                             <a href="https://cycy6.github.io/Event-notification/">Website</a>
                                             <br />
                                             <a href="https://github.com/cycy6/Event-notification">GitHub Repository</a>
@@ -68,6 +73,7 @@ function Portfolio() {
                                         <div class="card-body">
                                             <h5 class="card-title">Weather Dashboard</h5>
                                             <p class="card-text">Weather application to display city temperature data of current and expected forecast while saving user search history</p>
+                                            <p><b>Technologies Used:</b> JavaScript, HTML, CSS, JSON</p>
                                             <a href="https://mwong228.github.io/WeatherDashboard/">Website</a>
                                             <br />
                                             <a href="https://github.com/Mwong228/WeatherDashboard">GitHub Repository</a>
@@ -80,6 +86,7 @@ function Portfolio() {
                                         <div class="card-body">
                                             <h5 class="card-title">Password Generator</h5>
                                             <p class="card-text">Built VanillaJS application for passowrds based on user criteria to generate a random key of characters and/or with symbols</p>
+                                            <p><b>Technologies Used:</b> JavaScript, HTML, CSS</p>
                                             <a href="https://mwong228.github.io/PasswordGenerator/">Website</a>
                                             <br />
                                             <a href="https://github.com/Mwong228/PasswordGenerator">GitHub Repository</a>
